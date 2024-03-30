@@ -1,1 +1,5 @@
 # Churn_Analysis
+
+In the fast-evolving telecom industry, retaining customers is paramount. Our Churn Prediction project utilizes logistic regression to predict customer attrition, empowering telecom companies to preemptively identify and retain customers at risk of churning. By analyzing historical data, we uncover patterns and provide actionable insights to reduce churn rates. With a focus on data-driven decision-making, our project showcases the power of machine learning in optimizing business processes and improving service quality. Ultimately, our goal is to equip telecom companies with a reliable tool to enhance customer retention and foster industry growth.
+
+Explore insightful visualizations and exploratory data analysis (EDA) on telecom customer churn via my Tableau dashboard: "https://public.tableau.com/app/profile/sarita.kumari5444/viz/TelecomCustomerChurnAlaysisDashboard/TelecomCustomerChurnAlaysisDashboard". Gain valuable insights into customer churn patterns, demographic trends, and predictive analytics, empowering telecom companies to make informed decisions for enhancing customer retention and business sustainability.
